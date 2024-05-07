@@ -16,6 +16,7 @@ material_status = "y" # this is true
 y = 20
 # The correct form of: if y=="male" or ">40" is:
 if y == "male" or y > 40 :
-
+    print('dfgdfg')
 # The correct form of: if y== "male" or >"60" is:
 if y == "male" or y > 60 :
+    print('dfgdfg')
