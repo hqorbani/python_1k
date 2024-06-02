@@ -11,4 +11,5 @@ print(car)
 
 car["year"] = 2000
 
+print("car color:",car["color"])
 print(car)
